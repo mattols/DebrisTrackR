@@ -1,3 +1,7 @@
+# update does not return path
+
+
+
 # # # # # # # # # # # # #
 # CLASSIFICATION FUNCTION
 process_snowdebris <- function(folder_path, region = NULL, out_dir = tempdir()) {
